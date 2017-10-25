@@ -6,6 +6,8 @@ It is intended for use in mathematics / scientific / engineering applications.
 Despite being written entirely in python, the library is very fast due to its
 heavy leverage of numpy for number crunching, Qt's GraphicsView framework for
 2D display, and OpenGL for 3D display.
+
+forked by mr. aronson on 10/25/17
 """
 
 setupOpts = dict(
